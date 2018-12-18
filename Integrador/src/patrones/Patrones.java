@@ -5,10 +5,18 @@
  */
 package patrones;
 
+import comportamiento.AutorizadorSRI;
+import comportamiento.EsquemaOnline;
+import creacional.ComprobanteElectronico;
+import creacional.ComprobantesFactory;
 /**
  *
  * @author Danie
  */
+import creacional.Factura;
+import java.time.LocalDate;
+import java.time.Month;
+import java.util.ArrayList;
 public class Patrones {
 
     /**
