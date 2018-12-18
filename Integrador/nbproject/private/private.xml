@@ -3,16 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/comportamiento/EsquemaOffline.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/patrones/Patrones.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/estructural/DetallesDecorator.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/comportamiento/EsquemaOnline.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/comportamiento/Esquema.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/creacional/Comprobante.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/estructural/LogoDecorator.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/creacional/ComprobanteElectronico.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/estructural/LemaDecorator.java</file>
-            <file>file:/C:/Users/Danie/OneDrive/Documents/NetBeansProjects/Patrones/src/comportamiento/AutorizadorSRI.java</file>
+            <file>file:/C:/Users/Danie/Repositorios/TallerPatrones/Integrador/src/estructural/LogoDecorator.java</file>
+            <file>file:/C:/Users/Danie/Repositorios/TallerPatrones/Integrador/src/creacional/ComprobanteElectronico.java</file>
+            <file>file:/C:/Users/Danie/Repositorios/TallerPatrones/Integrador/src/patrones/Patrones.java</file>
+            <file>file:/C:/Users/Danie/Repositorios/TallerPatrones/Integrador/src/estructural/DetallesDecorator.java</file>
+            <file>file:/C:/Users/Danie/Repositorios/TallerPatrones/Integrador/src/creacional/ComprobantesFactory.java</file>
+            <file>file:/C:/Users/Danie/Repositorios/TallerPatrones/Integrador/src/estructural/LemaDecorator.java</file>
+            <file>file:/C:/Users/Danie/Repositorios/TallerPatrones/Integrador/src/creacional/Factura.java</file>
         </group>
     </open-files>
 </project-private>
